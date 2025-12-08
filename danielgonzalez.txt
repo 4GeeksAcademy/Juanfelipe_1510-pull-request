@@ -1,4 +1,11 @@
-Las tecnologias que más me gustan:
+Soy un estudiante de 4GeeksAcademy, trabajando en mi primer portafolio,
+las tecnologias que me gustan son:
+
 - HTML
 - CSS
-- React
+- Python
+- R studio
+- JavaScript
+- Bootstrap
+
+Un saludo a mis amigos!
